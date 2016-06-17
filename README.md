@@ -43,3 +43,12 @@ width="900" height="506"
     height: 24em;
 }
 ```
+# Примеры
+## Большой экран
+![Большой экран](screenshots/img_largescreen.png)
+##
+![Большой экран](screenshots/img_largescreen.png)
+##
+![Большой экран](screenshots/img_largescreen.png)
+##
+![Большой экран](screenshots/img_largescreen.png)
