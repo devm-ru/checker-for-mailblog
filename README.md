@@ -45,7 +45,7 @@ width="900" height="506"
 ```
 # Примеры
 ## Живой пример
-[https://m7d.github.io/checker-for-mailblog/](https://m7d.github.io/checker-for-mailblog/)
+[https://devm-ru.github.io/checker-for-mailblog/](https://devm-ru.github.io/checker-for-mailblog/)
 ## Большой экран
 ![Большой экран](screenshots/img_largescreen.png)
 ## Экран ноутбука
